@@ -1,5 +1,3 @@
-# personalized-Networking-Assistant
-
 # Personalized Networking Assistant
 
 ## Project Overview
